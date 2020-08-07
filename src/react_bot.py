@@ -39,7 +39,7 @@ async def on_message(message):
 
     if message.content.startswith(PREFIX):
         print(f"Given word: {message.content}")
-        for char in message.content:
+        for char in (message.content[1:]):
             try:
                  await message.add_reaction(alpha_dict[char.upper()])  
             except KeyError:
