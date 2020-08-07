@@ -7,7 +7,7 @@
 </p>
 <br />
 
-# Description
+## Description
 Reaction emote Discord bot written in Python.
 
 ## Requirements
