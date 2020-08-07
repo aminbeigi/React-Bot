@@ -2,6 +2,4 @@
 tempCodeRunnerFile.py
 
 # don't accidently commit token key
-/src/config.ini
-*config.ini
-*.ini
+./src/config.ini
