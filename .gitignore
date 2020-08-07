@@ -1,5 +1,5 @@
-# temp file
-/tempCodeRunnerFile.py
+# ignore temp file
+tempCodeRunnerFile.py
 
 # don't accidently commit token key
-/src/config.ini
+*.ini
