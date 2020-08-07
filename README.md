@@ -22,4 +22,4 @@ Contributions are always welcome!
 Just make a [pull request](../../pulls).
 
 ## Licence
-MIT licence.
+MIT licence
