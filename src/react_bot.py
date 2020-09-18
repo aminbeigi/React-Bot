@@ -9,7 +9,7 @@ A Discord bot that takes user messages as input and reacts with emotes.
 Requires a token input in config.ini.
   
 """
-CONFIG_FILE_PATH = '.\src\config.ini'
+CONFIG_FILE_PATH = './/src//config.ini'
 
 config = configparser.ConfigParser()
 config.read(CONFIG_FILE_PATH)
