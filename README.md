@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://image.flaticon.com/icons/svg/2111/2111370.svg" height="96px" width="96px"/>
+<img src="https://i.imgur.com/0yCFP1z.png" height="96px" width="96px"/>
 <br/>
 <h3 align="center">React Bot</h3>
 <p align="center">A Discord bot.</p>
