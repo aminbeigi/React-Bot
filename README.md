@@ -7,6 +7,12 @@
 </p>
 <br />
 
+<p align="center">
+<a href="../../issues"><img src="https://img.shields.io/github/issues/aminbeigi/React-Bot.svg?style=flat-square" /></a>
+<a href="../../pulls"><img src="https://img.shields.io/github/issues-pr/aminbeigi/React-Bot.svg?style=flat-square" /></a>
+<img src="https://img.shields.io/github/license/aminbeigi/React-Bot?style=flat-square">
+</p>
+
 ## Description
 Reaction emote Discord bot written in Python.
 
